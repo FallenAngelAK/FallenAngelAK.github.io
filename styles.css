@@ -8,9 +8,9 @@ body {
 }
 
 #content{
-  max-width: 80%;
+  max-width: 98%;
   margin: 0 auto;
-  padding: 0 60px 0 60px;
+  padding: 0 10px 0 10px;
 }
 
 #header {
@@ -62,7 +62,7 @@ a:hover {
 }
 
 .container {
-  max-width: 80%;
+  max-width: 98%;
   margin: 0 auto;
 }
 
@@ -75,7 +75,7 @@ a:hover {
 }
 
 .post, .about{
-  max-width: 80%;
+  max-width: 98%;
   margin: 0 auto;
   padding: 60px 0;
   }
